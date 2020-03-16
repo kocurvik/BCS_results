@@ -2,6 +2,6 @@
 
 These are the results from our paper on the split C of the BrnoCompSpeed dataset.
 
-The paper has been submitted to the IEEE T-ITS journal.
+The paper has been submitted to the Machine Vision and Applications journal.
 
 To evaluate these results download and extract the archives into the same folder as the BrnoCompSpeed dataset. Use the provided config.py with the code from [this repository](https://github.com/JakubSochor/BrnoCompSpeed) to compute the results.
