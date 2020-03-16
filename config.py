@@ -13,7 +13,8 @@ RUN_FOR_SYSTEMS = ( "Transform3D_480_270_VP2VP3",
                     "Transform3D_540_960_VP1VP2",
                     "Transform2D_640_360_VP2VP3",
                     "Transform2D_360_640_VP1VP2",
-                    "Orig2D_640_360")
+                    "Orig2D_640_360",
+                    "MaskRCNN3D_1024_576")
                     
 """
 For which video the evaluation should be done. 
